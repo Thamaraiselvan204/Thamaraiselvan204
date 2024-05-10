@@ -1,7 +1,7 @@
 """Travel Chat Bot on Slack
 
 title:  chat_endpoint.py
-author: Anthony Leung
+author: Thamaraiselvan R
 usage:  python3 chat_endpoint.py
 """
 
